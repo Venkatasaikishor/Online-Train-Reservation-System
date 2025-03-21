@@ -29,4 +29,4 @@ This project is a **SQL-based Online Train Reservation System** that manages tra
 ## 📢 Instructions to Run
 1. Clone the repository using:
 ```bash
-git clone https://github.com/your-username/Online-Train-Reservation-System.git
+git clone https://github.com/Venkatasaikishor/Online-Train-Reservation-System.git
